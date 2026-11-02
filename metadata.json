@@ -1,0 +1,6 @@
+{
+  "name": "PulseAmp",
+  "description": "Audiophile offline music player with 360 Spatial Audio, 10-band equalizer, Hi-Res audio engine, customizable playlists, and visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
